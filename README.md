@@ -3,7 +3,7 @@ The who-drug-coding-application constitutes the executable release of the intern
 
 ## How to run the application
 Below there are the steps that should be followed in order to use the application
-- <b>Step#1:</b> Download the `executable-release-*` zip file of the final release, from [here](https://github.com/dgkelaidonis/atcddd-classifier/releases).
+- <b>Step#1:</b> Download the `executable-release-*` zip file of the final release, from [here](https://github.com/dgkelaidonis/who-drug-coding-application/releases).
 - <b>Step#2:</b> Unzip the file, and open the unzipped folder (i.e., the `executable-release-*`).
 - <b>Step#3:</b> Use the sample excel file `input.xlsx` and put the ATC codes <b>OR</b> names, that you want to search into the respective column. 
 - <b>Step#4:</b> `Save` the excel `input.xlsx` file and `close` it.
